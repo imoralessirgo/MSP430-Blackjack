@@ -1,0 +1,11 @@
+*~
+\#*#
+*.o
+*.obj
+*.out
+
+Debug/*
+
+.metadata/.lock
+.metadata/.log
+
